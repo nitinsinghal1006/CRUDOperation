@@ -14,7 +14,7 @@ import com.serosoft.development.test.entity.User;
 import com.serosoft.development.test.service.UserService;
 
 /**
- * @author Shikhi Porwal
+ * @author Nitin Singhal
  * @version 1.0
  */
 @Controller
